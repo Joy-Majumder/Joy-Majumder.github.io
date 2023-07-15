@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: joy-majumder.github.io
-Token: 1240db465eecee92015188705542097e24da54472362fe8877d5698be3cfc2ac
